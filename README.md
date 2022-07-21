@@ -5,9 +5,13 @@
 ```
 python main.py
 ```
+## --------- Steps To Execute ------------
 
-1.) Create polygon using mouse<br />
-2.) Keydown button "Q" to run detect motion <br />
+1. Open File Parking Lot Detection
+2. Execute the main.py by command python main.py
+3. Parking image will be shown
+4. Mark the contours by clicking 4 corners for each spot they want tracked
+5. Presses ‘q’ when all desired spots are marked.
   
   [![Watch the video](https://img.youtube.com/vi/Jf88JUq6ZSQ/maxresdefault.jpg)](https://youtu.be/Jf88JUq6ZSQ)
 
@@ -16,13 +20,6 @@ python main.py
     a. Python 3.7   
     b. OpenCV
 
-## --------- Steps To Execute ------------
-
-1. Open File Parking Lot Detection
-2. Execute the main.py by command python main.py
-3. Parking image will be shown
-4. Mark the contours by clicking 4 corners for each spot they want tracked
-5. Presses ‘q’ when all desired spots are marked.
 
 
   Video begins with the contours of Parking Slots overlayed the video.
